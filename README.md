@@ -1,1 +1,1 @@
-# SOEN6611-MileStone3
+# SOEN6611-MileStone3 Artifacts
